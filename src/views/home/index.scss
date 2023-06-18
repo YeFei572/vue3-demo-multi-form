@@ -1,0 +1,15 @@
+.wrap {
+    margin: 0;
+    padding: 0;
+
+    .btn {
+        display: flex;
+        flex-direction: column;
+
+        &-add-reducer {
+            width: 18px;
+            height: 18px;
+        }
+    }
+
+}
